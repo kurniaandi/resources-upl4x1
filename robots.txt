@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kurniaandi.github.io/resources-upl4x1/sitemap.xml
